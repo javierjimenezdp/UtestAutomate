@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Yo como usuario de Utest, deseo continuar con la 3ra parte del registro de una cuenta de usuario" skipped="0" tests="1" time="13.99" timestamp="2022-12-20 05:36:03"><testcase name="Ingreso exitoso a la plataforma Utest"><error message="Timed out after 2 seconds. Element not found&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'javier-VivoBook-ASUSLaptop-X509JB-X509JB', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.15.0-56-generic', java.version: '1.8.0_352'&#10;Driver info: driver.version: unknown&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'javier-VivoBook-ASUSLaptop-X509JB-X509JB', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.15.0-56-generic', java.version: '1.8.0_352'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.NoSuchElementException">Timed out after 2 seconds. Element not found
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'javier-VivoBook-ASUSLaptop-X509JB-X509JB', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.15.0-56-generic', java.version: '1.8.0_352'
+Driver info: driver.version: unknown
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'javier-VivoBook-ASUSLaptop-X509JB-X509JB', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.15.0-56-generic', java.version: '1.8.0_352'
+Driver info: driver.version: unknown</error><system-err>Timed out after 2 seconds. Element not found
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'javier-VivoBook-ASUSLaptop-X509JB-X509JB', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.15.0-56-generic', java.version: '1.8.0_352'
+Driver info: driver.version: unknown
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'javier-VivoBook-ASUSLaptop-X509JB-X509JB', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.15.0-56-generic', java.version: '1.8.0_352'
+Driver info: driver.version: unknown
+PageObject.UtestPageObject.sendLanguaje(UtestPageObject.java:132)
+Steps.UtestSteps.enterInformationPC(UtestSteps.java:47)
+StepDefinitions.UtestPage3StepDefinition.ingreseTodaLaInformaciónRequeridaPage3(UtestPage3StepDefinition.java:16)
+✽.ingrese toda la información requerida para la página 3 linux, Ubuntu, Spanish, Asus, Transformer, Android 4.0(src/test/resources/Features/Utest3.feature:9)
+</system-err></testcase></testsuite>
