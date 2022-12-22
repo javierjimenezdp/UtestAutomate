@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Yo como usuario de Utest, deseo continuar con la 3ra parte del registro de una cuenta de usuario" skipped="0" tests="1" time="37.7" timestamp="2022-12-21 08:37:39"><testcase name="Ingreso exitoso a la plataforma Utest"><error message="chrome not reachable&#10;  (Session info: chrome=103.0.5060.134)&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'javier-VivoBook-ASUSLaptop-X509JB-X509JB', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.15.0-56-generic', java.version: '1.8.0_352'&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 103.0.5060.134 (8ec6fce403b..., userDataDir: /tmp/.com.google.Chrome.U8NlAd}, goog:chromeOptions: {debuggerAddress: localhost:43045}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: 479903161332cb4dda1c991990a9ae68&#10;*** Element info: {Using=xpath, value=//div[@class=&quot;image-box-header&quot;]}&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'javier-VivoBook-ASUSLaptop-X509JB-X509JB', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.15.0-56-generic', java.version: '1.8.0_352'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.WebDriverException">chrome not reachable
+  (Session info: chrome=103.0.5060.134)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'javier-VivoBook-ASUSLaptop-X509JB-X509JB', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.15.0-56-generic', java.version: '1.8.0_352'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 103.0.5060.134 (8ec6fce403b..., userDataDir: /tmp/.com.google.Chrome.U8NlAd}, goog:chromeOptions: {debuggerAddress: localhost:43045}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 479903161332cb4dda1c991990a9ae68
+*** Element info: {Using=xpath, value=//div[@class="image-box-header"]}
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'javier-VivoBook-ASUSLaptop-X509JB-X509JB', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.15.0-56-generic', java.version: '1.8.0_352'
+Driver info: driver.version: unknown</error><system-err>chrome not reachable
+  (Session info: chrome=103.0.5060.134)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'javier-VivoBook-ASUSLaptop-X509JB-X509JB', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.15.0-56-generic', java.version: '1.8.0_352'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 103.0.5060.134 (8ec6fce403b..., userDataDir: /tmp/.com.google.Chrome.U8NlAd}, goog:chromeOptions: {debuggerAddress: localhost:43045}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 479903161332cb4dda1c991990a9ae68
+*** Element info: {Using=xpath, value=//div[@class="image-box-header"]}
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'javier-VivoBook-ASUSLaptop-X509JB-X509JB', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.15.0-56-generic', java.version: '1.8.0_352'
+Driver info: driver.version: unknown
+PageObject.WebBasePage.esperaElemnento(WebBasePage.java:14)
+PageObject.UtestPageObject.verificationLogin(UtestPageObject.java:214)
+Steps.UtestSteps.seCompletaElRegistroDeManeraExitosaPage4(UtestSteps.java:69)
+StepDefinitions.UtestPage4StepDefinition.seCompletaElRegistroDeManeraExitosaPage4(UtestPage4StepDefinition.java:22)
+✽.Se completa el registro de la 4ta de manera exitosa(src/test/resources/Features/Utest4.feature:12)
+</system-err></testcase></testsuite>
